@@ -1,4 +1,4 @@
-# 📸 Social Media Backend API
+# 📸 BlogApp-Backend API's
 
 This is a **backend project** built using **Node.js, Express, and MongoDB**, providing essential features for a **social media platform** where users can create posts, like/unlike them, and comment on posts.
 
@@ -18,8 +18,8 @@ This is a **backend project** built using **Node.js, Express, and MongoDB**, pro
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Saurabhsaxena81/social-media-backend.git
-   cd social-media-backend
+   git clone https://github.com/Saurabhsaxena81/BlogApp-Backend.git
+   cd BlogApp-Backend
    ```
 
 2. **Install dependencies:**
@@ -56,7 +56,7 @@ This is a **backend project** built using **Node.js, Express, and MongoDB**, pro
 
 ## 📂 Folder Structure
 ```
-📂 social-media-backend
+📂 BlogApp-Backend
  ┣ 📂 models
  ┃ ┗ 📜 Post.js        # Post model
  ┣ 📂 routes
